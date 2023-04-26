@@ -1,7 +1,7 @@
 ## Desafio para entregar
 
 
-![uml](https://github.com/rosana-moreira/devsuperior-orm-auth-desafio/blob/main/modelo-conceitual.png)
+![uml](https://github.com/rosana-moreira/desafio-orm-autenticacao/blob/master/modelo-conceitual.png)
 
 ### Basicamente você deverá cumprir três etapas:
 
