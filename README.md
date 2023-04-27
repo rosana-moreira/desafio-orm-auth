@@ -21,4 +21,5 @@ Seu seed deve conter dois usuários:
    
 Endpoint que deverá ser feito:
 
-* Obter o perfil do usuário logado:   `GET /users/profile`
+* Obter o perfil do usuário logado: 
+`GET /users/profile`
